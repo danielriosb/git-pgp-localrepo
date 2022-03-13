@@ -1,0 +1,3 @@
+This file is a conflict file 
+This code will create a conflict
+This code will merge the conclict
