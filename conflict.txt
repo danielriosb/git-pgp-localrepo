@@ -1,3 +1,5 @@
 This is a conflict file
 This is to resolve the conflict
 This is the second line
+This a new line of code.
+This line is written in the text branch
