@@ -1,1 +1,2 @@
 This is a conflict file
+This is to resolve the conflict
