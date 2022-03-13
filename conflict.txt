@@ -1,1 +1,2 @@
 This is to resolve the conflict
+This is the second line
